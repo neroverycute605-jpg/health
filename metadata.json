@@ -1,0 +1,10 @@
+{
+  "name": "Remix PulseTemp Health Monitor (วัดอัตราการเต้นหัวใจและอุณหภูมิ)",
+  "description": "แอปพลิเคชันวัดอัตราการเต้นของหัวใจผ่านกล้องมือถือ (PPG) และประเมินอุณหภูมิร่างกาย พร้อมระบบวิเคราะห์สุขภาพ AI",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
